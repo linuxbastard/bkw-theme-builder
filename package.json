@@ -1,0 +1,22 @@
+{
+  "name": "theme-builder",
+  "version": "1.0.0",
+  "description": "A Wordpress theme builder package",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxbastard/bkw-theme-builder.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Ronaldo Bartolome",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/linuxbastard/bkw-theme-builder/issues"
+  },
+  "homepage": "https://github.com/linuxbastard/bkw-theme-builder#readme"
+}
