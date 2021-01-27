@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/linuxbastard/bkw-theme-builder/issues"
   },
-  "homepage": "https://github.com/linuxbastard/bkw-theme-builder#readme"
+  "homepage": "https://github.com/linuxbastard/bkw-theme-builder#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
